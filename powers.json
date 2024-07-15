@@ -375,7 +375,7 @@
   "Fire Breathing": {
     "NAME": "Aliento de Fuego",
     "DESCRIPTIONS": [
-      "Al final de tu turno, por cada #yEstado o #yMaldición robado este turno, inflige #b",
+      "Cuando robes una carta de #yEstado o #yMaldición inflige #b",
       " de daño a TODOS los enemigos."
     ]
   },
