@@ -155,7 +155,7 @@
     "DESCRIPTION": "Haz !D! de daño."
   },
   "Blur": {
-    "NAME": "Borroso",
+    "NAME": "Difuminarse",
     "DESCRIPTION": "Gana !B! de Bloqueo. NL Bloqueo no desaparece al inicio del siguiente turno."
   },
   "Body Slam": {

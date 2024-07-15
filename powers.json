@@ -61,7 +61,7 @@
     ]
   },
   "Berserk": {
-    "NAME": "Frenético",
+    "NAME": "Frenesí",
     "DESCRIPTIONS": [
       "Si tu PV es igual o inferior a  #b50%, gana ",
       " al comienzo de tu turno."
@@ -94,7 +94,7 @@
     ]
   },
   "Buffer": {
-    "NAME": "Almacenar Datos",
+    "NAME": "Búfer",
     "DESCRIPTIONS": [
       "Prevén la siguiente vez que fueras a perder PV.",
       "Prevén las siguientes #b",
@@ -236,7 +236,7 @@
     ]
   },
   "Double Tap": {
-    "NAME": "Doble Golpe",
+    "NAME": "Golpear Doble",
     "DESCRIPTIONS": [
       "En este turno, juega tu siguente #yAtaque dos veces.",
       "En este turno, juega tus siguientes ",
@@ -278,7 +278,7 @@
     ]
   },
   "Echo Form": {
-    "NAME": "Forma de Eco",
+    "NAME": "Forma Eco",
     "DESCRIPTIONS": [
       "La primera carta jugada cada turno se jugará dos veces",
       "Las primeras #b",
