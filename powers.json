@@ -471,7 +471,7 @@
     ]
   },
   "Infinite Blades": {
-    "NAME": "Cuchillas Infinitas",
+    "NAME": "Navajas Infinitas",
     "DESCRIPTIONS": [
       "Al principio de tu turno, roba #b",
       " #yNavajas.",
@@ -517,7 +517,7 @@
     ]
   },
   "Lockon": {
-    "NAME": "Lock-On",
+    "NAME": "Localizar",
     "DESCRIPTIONS": [
       "Recibe #b",
       "% más daño de Orbes por #b",
@@ -949,7 +949,7 @@
     ]
   },
   "Venomology": {
-    "NAME": "Venomología",
+    "NAME": "Alquimia",
     "DESCRIPTIONS": [
       "El #yVeneno crece en #b",
       " en lugar de disminuir cada turno."
