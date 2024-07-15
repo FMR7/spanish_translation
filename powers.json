@@ -335,8 +335,8 @@
   "Evolve": {
     "NAME": "Evolucionar",
     "DESCRIPTIONS": [
-      "Cada vez que robes una #yHerida, roba una carta.",
-      "Cada vez que robes una #yHerida, roba #b",
+      "Cada vez que robes una carta de #yEstado, roba una carta.",
+      "Cada vez que robes una carta de #yEstado, roba #b",
       " cartas."
     ]
   },
